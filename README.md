@@ -28,9 +28,9 @@ Create an environment variable called `GITHUB_TOKEN` and set the value equal to 
 
 Open the terminal and enter the following command.
 
-    ```bash
-    dotnet run
-    ```
+```bash
+dotnet run
+```
 
 This will process all images in the *data* directory and print a list of passages to the console. If successful, the output should look similar to the following:
 
