@@ -7,7 +7,7 @@ IChatClient client =
     new ChatCompletionsClient(
         endpoint: new Uri("https://models.inference.ai.azure.com"), 
         new AzureKeyCredential(Environment.GetEnvironmentVariable("GITHUB_TOKEN")))
-        .AsChatClient("gpt-4o");
+        .AsChatClient("gpt-4o-mini");
 
 var filePaths = Directory.GetFiles("data");
 
@@ -32,7 +32,7 @@ foreach(var path in filePaths)
         })
     };
 
-    var response = await client.CompleteAsync<List<AIBookmark>>(messages);
+    var response = await client.CompleteAsync<List<AIBookmark>>(messages, options: new ChatOptions {Temperature = 0.1f});
 
     passages.AddRange(response.Result);
 }
