@@ -37,13 +37,15 @@ This will process all images in the *data* directory and print a list of passage
 ```text
 > This isn’t a matter of blind belief in yourself. It’s a matter of experimental faith. (pg. 278)
 
-> When we don’t yet know where we’re going, we don’t wait. We move forward in the dark. If nothing we attempt yields progress, we rely on belief and will. We may take several steps backward in the sequence to move ahead. If we try ten experiments and none of them work, we have a choice. We can take it personally, and think of ourselves as a failure and question our ability to solve the prob- (pg. 278)
+> When we don’t yet know where we’re going, we don’t wait. We move forward in the dark. If nothing we attempt yields progress, we rely on belief and will. We may take several steps backward in the sequence to move ahead. (pg. 278)
 
-> Or we can recognize we’ve ruled out ten ways that don’t work, bringing us that much closer to a solution. (pg. 279)
+> If we try ten experiments and none of them work; we have a choice. We can take it personally, and think of ourselves as a failure and question our ability to solve the problem. (pg. 278)
 
 > Staying in it means a commitment to remain open to what’s around you. Paying attention and listening. Looking for connections and relationships in the outside world. Searching for beauty. Seeking stories. Noticing what you find interesting, what makes you lean forward. And knowing all of this is available to use next time you sit down to work, where the raw data gets put into form. (pg. 296)
 
 > Just as a surfer can’t control the waves, artists are at the mercy of the creative rhythms of nature. This is why it’s of such great importance to remain aware and present at all times. Watching and waiting. (pg. 296)
+
+> Maybe the best idea is the one you’re going to come up with this evening. (pg. 297)
 ```
 
 ## Extend the solution
