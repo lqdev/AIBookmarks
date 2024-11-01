@@ -2,6 +2,8 @@
 
 This project shows how to use multi-modal AI models from the GitHub Models catalog to extract marked passages from images.
 
+Check out the accompanying blog post, [*Digitize Analog Bookmarks using AI, .NET, and GitHub Models*](https://www.lqdev.me/posts/digitize-analog-bookmarks-with-ai-dotnet)
+
 ![An image of a book with pencil markings](./data/creative-act-1.jpg)
 
 ## Quick Start
